@@ -1,1 +1,3 @@
 # Public-Android-Studio-Projects
+1. VAULT SYSTEM WITH SHA256 AND AES ENCRYPTION (03/2022 - 04/2022) - Created a vault application using Android Studio where merchants and customers can post their card details which are then encrypted and decrypted using AES algorithm. Their passwords were encrypted using SHA256 algorithm. It is named as AES3.
+2. RESTAURANT RESERVATION SYSTEM (03/2022 - 04/2022) - Created an mini-application using Android Studio that allows a user to login/sign up, then select the hotel they want to reserve and lastly to input their scheduled time and date for reservation after which an SMS will then be sent to their desired number. It is named as PartAproject.
